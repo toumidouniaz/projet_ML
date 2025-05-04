@@ -42,4 +42,17 @@ Les performances restent limitées à cause du manque de ressources (GPU limité
 Meilleure détection observée pour les tumeurs de type meningioma et pituitary.
 **Limite technique :**  L’accès aux GPU sur Google Colab étant restreint, nous n’avons pas pu entraîner le modèle sur plusieurs époques ou architectures plus complexes.
 
+## Perspectives
+1. Optimisation avec un accès GPU complet (Kaggle ou Colab Pro).
+2. Ajout de modèles de segmentation pour localiser la tumeur.
+3. Déploiement dans une API (Flask, FastAPI) ou une app mobile
 
+## Liens utiles
+🔗 Notebook Google Colab: https://colab.research.google.com/drive/1QQhlp-L2y7MPu7SCJwZJ0ExmDDttTm_T?usp=sharing
+💻 Code sur GitHub : https://github.com/toumidouniaz/projet_ML/blob/main/projet_ml.py
+📁 Dataset utilisé : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
+## Auteur
+Douniazed Amira TOUMI
+Étudiant en ITS
+École : EPISEN
