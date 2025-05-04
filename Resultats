@@ -1,0 +1,10 @@
+Résultats obtenus
+Accuracy sur jeu de test : 37.82%
+
+F1-score pondéré : 30.13%
+
+Les performances restent limitées à cause du manque de ressources (GPU limité sur Colab).
+
+Meilleure détection observée pour les tumeurs de type meningioma et pituitary.
+
+Limite technique : L’accès aux GPU sur Google Colab étant restreint, nous n’avons pas pu entraîner le modèle sur plusieurs époques ou architectures plus complexes.
